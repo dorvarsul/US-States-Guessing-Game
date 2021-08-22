@@ -1,0 +1,6 @@
+This game is a guessing game for US states.
+the game works as follows:
+*The user chooses a certain state.
+*If that state exists, the map is updated with the state's name in the state's location on map (States names & locations are located in a seperate CSV files).
+*The game keeps score, once the user reaches 50 / 50 states the game ends.
+*If the user can't finish the game he can write "Exit" on the pop up input and the game automaticly deducts the states that are missing and puts them into a new csv called "States_To_Learn"
